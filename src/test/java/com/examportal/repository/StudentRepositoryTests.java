@@ -18,6 +18,7 @@ public class StudentRepositoryTests {
 	
 	
 	@Autowired
+	
 	private StudentRepository studentRepository;
 	
 	
